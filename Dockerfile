@@ -7,7 +7,7 @@ COPY . .
 RUN apt-get install maven -y
 RUN mvn clean install 
 
-FROM openjdk:8-jre-slim
+FROM openjdk:8-jdk-slim
 
 EXPOSE 8080
 
