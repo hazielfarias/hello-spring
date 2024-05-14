@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.haziel</groupId>
-	<artifactId>hello</artifactId>
+	<artifactId>api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hello</name>
+	<name>api</name>
 	<description>Projeto de aprendizado de springboot basico</description>
 
 	<properties>
