@@ -1,4 +1,4 @@
-package com.haziel.minhaloja.services;
+package com.haziel.api.services;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
